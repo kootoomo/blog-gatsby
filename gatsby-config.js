@@ -11,8 +11,8 @@ module.exports = {
   siteMetadata: {
     title: `Blagodushie's Blog`,
     description: `Some diaries from vacations`,
-    author: `github.com/kootoomo`,
-    siteUrl: `https://alab.pw/`,
+    author: `https://www.youtube.com/@blagodushie`,
+    siteUrl: `https://webdesign.alab.pw/blog-gatsby/`,
   },
   plugins: [
     `gatsby-plugin-image`,

@@ -1,2 +1,2 @@
 # blog-gatsby
-Blog with Gatsby via tutorial by ZhangMYihua
+blog with gatsby by tutorial Yihua Zhang

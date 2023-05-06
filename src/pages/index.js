@@ -97,6 +97,9 @@ import Seo from "../components/seo"
   <Layout>
     <div>
       <h1>My blog posts</h1>
+      <h2>Текстовые фотографии тех времён,</h2> 
+      <h3>Не те дела теперь, и времена не те.</h3>
+      <hr />
       <h4>{ data.allMarkdownRemark.totalCount } Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
